@@ -50,7 +50,7 @@
   <a href="https://www.youtube.com/channel/UCuq3xzLt8TgdFGEg07Cm0BQ" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="zs-youtube" />
   </a>
-  <a href="https://www.facebook.com/lys.zisai/" target="blank">
+  <a href="https://www.instagram.com/lys.zisai/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="zs-instagram" />
   </a>
   <a href="mailto:Hauaini@gmail.com" target="top">
