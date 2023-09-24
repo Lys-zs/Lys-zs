@@ -14,17 +14,19 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/adobephotoshop-282C34?logo=adobephotoshop&logoColor=7952B3" alt="adobephotoshop logo" title="adobephotoshop" height="25" /></span>
+<span><img src="https://img.shields.io/badge/adobephotoshop-282C34?logo=adobephotoshop&logoColor=7952B3" alt="adobephotoshop logo" title="Photoshop" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/figma-282C34?logo=figma&logoColor=#F24E1E" alt="figma logo" title="figma" height="25" /></span>
+<span><img src="https://img.shields.io/badge/figma-282C34?logo=figma&logoColor=#F24E1E" alt="figma logo" title="Figma" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="Git" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/mysql-282C34?logo=mysql&logoColor=#4479A1" alt="mysql logo" title="mysql" height="25" /></span>
+<span><img src="https://img.shields.io/badge/mysql-282C34?logo=mysql&logoColor=#4479A1" alt="mysql logo" title="Mysql" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/php-282C34?logo=php&logoColor=#777BB4" alt="php logo" title="php Code" height="25" /></span>
+<span><img src="https://img.shields.io/badge/php-282C34?logo=php&logoColor=#777BB4" alt="php logo" title="PHP Code" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/laravel-282C34?logo=laravel&logoColor=#FF2D20" alt="laravel logo" title="Laravel Code" height="25" /></span>
 &nbsp;
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
