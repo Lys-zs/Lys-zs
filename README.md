@@ -14,7 +14,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/adobephotoshop-282C34?logo=adobephotoshop&logoColor=7952B3" alt="adobephotoshop logo" title="Photoshop" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Photoshop-282C34?logo=adobephotoshop&logoColor=7952B3" alt="adobephotoshop logo" title="Photoshop" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=#F24E1E" alt="Figma logo" title="Figma" height="25" /></span>
 &nbsp;
